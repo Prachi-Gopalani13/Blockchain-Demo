@@ -1,6 +1,6 @@
 # Blockchain-Demo
 
-## Blog(Step-by-Setp Explaination)
+## Blog(Step-by-Step Explaination)
 
 ## Blockchain Breif
 As the name suggests, A Blockchain is a “chain of Blocks”. Each block contains a “Block Number”, “Nonce”, “Information (data)” where particular transaction takes place, “Previous Hash” and, “hash”.
