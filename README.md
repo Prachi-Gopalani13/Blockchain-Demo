@@ -1,7 +1,7 @@
 # Blockchain-Demo
 
 ## Blog(Step-by-Step Explaination)
-https://prachi-gopalani.medium.com/blockchain-from-buzzword-to-reality-6e3bfb8e419f
+https://medium.com/datadriveninvestor/blockchain-moves-from-buzzword-to-reality-4e3d6b80b1d5
 
 ## Blockchain Breif
 As the name suggests, A Blockchain is a “chain of Blocks”. Each block contains a “Block Number”, “Nonce”, “Information (data)” where particular transaction takes place, “Previous Hash” and, “hash”.
