@@ -1,6 +1,9 @@
 # Blockchain-Demo
 
-## Blog(Step-by-Step Explaination)
+## Blog(Step-by-Step Explaination) :
+https://medium.com/analytics-vidhya/learn-blockchain-by-building-one-using-python-780d41ccb112
+
+## Blog Introduction to blockchain:
 https://medium.com/datadriveninvestor/blockchain-moves-from-buzzword-to-reality-4e3d6b80b1d5
 
 ## Blockchain Breif
